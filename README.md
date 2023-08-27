@@ -17,4 +17,9 @@ Adding Post
 ![image](https://github.com/silvioprendi/thePilgrimsApp/assets/80984231/fdf247cd-000d-4683-9586-f0a22331759c)
 
 Dark Theme Home Page
+
 ![image](https://github.com/silvioprendi/thePilgrimsApp/assets/80984231/afe9f6e5-8b57-4599-97f6-fecdcfa0a8ac)
+
+Dark Theme Profile Page
+
+![image](https://github.com/silvioprendi/thePilgrimsApp/assets/80984231/d915a42b-c0cc-47d8-bc6e-64d9cd5135b9)
